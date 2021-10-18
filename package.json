@@ -1,0 +1,27 @@
+{
+  "name": "scrap-ville",
+  "version": "1.0.0",
+  "description": "api for scraping distance between country",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Mansouri youssef",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "child-process-async": "^1.0.1",
+    "curl": "^0.1.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "jstoxml": "^2.2.0",
+    "mongoose": "^5.13.5",
+    "node-scrapy": "^0.5.0",
+    "nodemon": "^2.0.12",
+    "request-promise": "^4.2.6"
+  }
+}

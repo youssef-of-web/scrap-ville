@@ -1,0 +1,190 @@
+{
+    "country_name": "Afghanistan",
+    "country_value": "af",
+    "city": [
+        {
+            "city_name": "Aibak",
+            "city_value": "1127768"
+        },
+        {
+            "city_name": "Andkhoy",
+            "city_value": "1148658"
+        },
+        {
+            "city_name": "Art Khwajah",
+            "city_value": "1148106"
+        },
+        {
+            "city_name": "Asadabad",
+            "city_value": "1148311"
+        },
+        {
+            "city_name": "Asmar",
+            "city_value": "1148205"
+        },
+        {
+            "city_name": "Baghlan",
+            "city_value": "1147540"
+        },
+        {
+            "city_name": "Balkh",
+            "city_value": "1147290"
+        },
+        {
+            "city_name": "Baraki Barak",
+            "city_value": "1147066"
+        },
+        {
+            "city_name": "Charikar",
+            "city_value": "1145352"
+        },
+        {
+            "city_name": "Cool urhajo",
+            "city_value": "6692413"
+        },
+        {
+            "city_name": "Farah",
+            "city_value": "1142264"
+        },
+        {
+            "city_name": "Fayzabad",
+            "city_value": "1142170"
+        },
+        {
+            "city_name": "Gardez",
+            "city_value": "1141857"
+        },
+        {
+            "city_name": "Gereshk",
+            "city_value": "1141540"
+        },
+        {
+            "city_name": "Ghazni",
+            "city_value": "1141269"
+        },
+        {
+            "city_name": "Ghormach",
+            "city_value": "1141089"
+        },
+        {
+            "city_name": "Herat",
+            "city_value": "1140026"
+        },
+        {
+            "city_name": "Jabal os Saraj",
+            "city_value": "1139807"
+        },
+        {
+            "city_name": "Jalalabad",
+            "city_value": "1139715"
+        },
+        {
+            "city_name": "Kabul",
+            "city_value": "1138958"
+        },
+        {
+            "city_name": "Kafir Qala",
+            "city_value": "1142404"
+        },
+        {
+            "city_name": "Kandahar",
+            "city_value": "1138336"
+        },
+        {
+            "city_name": "Karukh",
+            "city_value": "1137807"
+        },
+        {
+            "city_name": "Khanabad",
+            "city_value": "1137168"
+        },
+        {
+            "city_name": "Khash",
+            "city_value": "1136863"
+        },
+        {
+            "city_name": "Khost",
+            "city_value": "1136469"
+        },
+        {
+            "city_name": "Khulm",
+            "city_value": "1136575"
+        },
+        {
+            "city_name": "Kunduz",
+            "city_value": "1135689"
+        },
+        {
+            "city_name": "Kushk",
+            "city_value": "1135158"
+        },
+        {
+            "city_name": "Lashkar Gah",
+            "city_value": "1134720"
+        },
+        {
+            "city_name": "Markaz-e Woluswali-ye Achin",
+            "city_value": "1469706"
+        },
+        {
+            "city_name": "Maymana",
+            "city_value": "1133453"
+        },
+        {
+            "city_name": "Mazar-e Sharif",
+            "city_value": "1133616"
+        },
+        {
+            "city_name": "Mehtar Lam",
+            "city_value": "1133574"
+        },
+        {
+            "city_name": "Nahrin",
+            "city_value": "1132495"
+        },
+        {
+            "city_name": "Paghman",
+            "city_value": "1131316"
+        },
+        {
+            "city_name": "Pul-e Khumri",
+            "city_value": "1130490"
+        },
+        {
+            "city_name": "Qarawul",
+            "city_value": "1129648"
+        },
+        {
+            "city_name": "Qarqin",
+            "city_value": "1129516"
+        },
+        {
+            "city_name": "Rustaq",
+            "city_value": "1128265"
+        },
+        {
+            "city_name": "Sang-e Charak",
+            "city_value": "1127628"
+        },
+        {
+            "city_name": "Sar-e Pul",
+            "city_value": "1127110"
+        },
+        {
+            "city_name": "Shahrak",
+            "city_value": "1125896"
+        },
+        {
+            "city_name": "Shibirghan",
+            "city_value": "1125444"
+        },
+        {
+            "city_name": "Shindand",
+            "city_value": "1125155"
+        },
+        {
+            "city_name": "Taloqan",
+            "city_value": "1123004"
+        }
+    ]
+}

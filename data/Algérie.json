@@ -1,0 +1,894 @@
+{
+    "country_name": "Algérie",
+    "country_value": "dz",
+    "city": [
+        {
+            "city_name": "'Ain Abid",
+            "city_value": "2508309"
+        },
+        {
+            "city_name": "'Ain Arnat",
+            "city_value": "2508297"
+        },
+        {
+            "city_name": "'Ain Benian",
+            "city_value": "2508275"
+        },
+        {
+            "city_name": "'Ain Deheb",
+            "city_value": "2508225"
+        },
+        {
+            "city_name": "'Ain el Bell",
+            "city_value": "2508184"
+        },
+        {
+            "city_name": "'Ain el Berd",
+            "city_value": "2508180"
+        },
+        {
+            "city_name": "'Ain el Hammam",
+            "city_value": "2508152"
+        },
+        {
+            "city_name": "'Ain el Melh",
+            "city_value": "2508130"
+        },
+        {
+            "city_name": "'Ain el Turk",
+            "city_value": "2508119"
+        },
+        {
+            "city_name": "'Ain Merane",
+            "city_value": "2508010"
+        },
+        {
+            "city_name": "'Ain Temouchent",
+            "city_value": "2507901"
+        },
+        {
+            "city_name": "Abou el Hassan",
+            "city_value": "2509031"
+        },
+        {
+            "city_name": "Adrar",
+            "city_value": "2508813"
+        },
+        {
+            "city_name": "Aflou",
+            "city_value": "2508737"
+        },
+        {
+            "city_name": "Ain Beida",
+            "city_value": "2508287"
+        },
+        {
+            "city_name": "Ain Bessem",
+            "city_value": "2508268"
+        },
+        {
+            "city_name": "Ain el Bya",
+            "city_value": "2508174"
+        },
+        {
+            "city_name": "Ain Fakroun",
+            "city_value": "2508102"
+        },
+        {
+            "city_name": "Ain Kercha",
+            "city_value": "2508059"
+        },
+        {
+            "city_name": "Ain Oussera",
+            "city_value": "2507972"
+        },
+        {
+            "city_name": "Ain Sefra",
+            "city_value": "2507943"
+        },
+        {
+            "city_name": "Ain Smara",
+            "city_value": "2507926"
+        },
+        {
+            "city_name": "Ain Taya",
+            "city_value": "2507912"
+        },
+        {
+            "city_name": "Ain Touta",
+            "city_value": "2507877"
+        },
+        {
+            "city_name": "Akbou",
+            "city_value": "2507646"
+        },
+        {
+            "city_name": "Algiers",
+            "city_value": "2507480"
+        },
+        {
+            "city_name": "Amizour",
+            "city_value": "2507169"
+        },
+        {
+            "city_name": "Ammi Moussa",
+            "city_value": "2507155"
+        },
+        {
+            "city_name": "Annaba",
+            "city_value": "2506999"
+        },
+        {
+            "city_name": "Aoulef",
+            "city_value": "2506795"
+        },
+        {
+            "city_name": "Arbatache",
+            "city_value": "2506623"
+        },
+        {
+            "city_name": "Arhribs",
+            "city_value": "2506519"
+        },
+        {
+            "city_name": "Arris",
+            "city_value": "2506404"
+        },
+        {
+            "city_name": "Azazga",
+            "city_value": "2506043"
+        },
+        {
+            "city_name": "Azzaba",
+            "city_value": "2505915"
+        },
+        {
+            "city_name": "Bab Ezzouar",
+            "city_value": "2505854"
+        },
+        {
+            "city_name": "BABOR - VILLE",
+            "city_value": "6698360"
+        },
+        {
+            "city_name": "Baraki",
+            "city_value": "2505653"
+        },
+        {
+            "city_name": "Barbacha",
+            "city_value": "2505651"
+        },
+        {
+            "city_name": "Barika",
+            "city_value": "2505629"
+        },
+        {
+            "city_name": "Batna",
+            "city_value": "2505572"
+        },
+        {
+            "city_name": "Bechar",
+            "city_value": "2505530"
+        },
+        {
+            "city_name": "Bejaia",
+            "city_value": "2505329"
+        },
+        {
+            "city_name": "Ben Mehidi",
+            "city_value": "2504486"
+        },
+        {
+            "city_name": "Beni Amrane",
+            "city_value": "2504739"
+        },
+        {
+            "city_name": "Beni Douala",
+            "city_value": "2504703"
+        },
+        {
+            "city_name": "Beni Mered",
+            "city_value": "2504622"
+        },
+        {
+            "city_name": "Beni Mester",
+            "city_value": "2504616"
+        },
+        {
+            "city_name": "Beni Saf",
+            "city_value": "2504581"
+        },
+        {
+            "city_name": "Bensekrane",
+            "city_value": "2504385"
+        },
+        {
+            "city_name": "Berrahal",
+            "city_value": "2504136"
+        },
+        {
+            "city_name": "Berriane",
+            "city_value": "2504110"
+        },
+        {
+            "city_name": "Berrouaghia",
+            "city_value": "2504099"
+        },
+        {
+            "city_name": "Besbes",
+            "city_value": "2504072"
+        },
+        {
+            "city_name": "Bir el Ater",
+            "city_value": "2503878"
+        },
+        {
+            "city_name": "Bir el Djir",
+            "city_value": "2503874"
+        },
+        {
+            "city_name": "Birine",
+            "city_value": "2503852"
+        },
+        {
+            "city_name": "Birkhadem",
+            "city_value": "2503847"
+        },
+        {
+            "city_name": "Boghni",
+            "city_value": "2503755"
+        },
+        {
+            "city_name": "Bordj el Kiffan",
+            "city_value": "2503661"
+        },
+        {
+            "city_name": "Bordj Ghdir",
+            "city_value": "2503654"
+        },
+        {
+            "city_name": "Bordj Zemoura",
+            "city_value": "2503620"
+        },
+        {
+            "city_name": "Bou Arfa",
+            "city_value": "2503468"
+        },
+        {
+            "city_name": "Bou Hanifia el Hamamat",
+            "city_value": "2503033"
+        },
+        {
+            "city_name": "Bou Ismail",
+            "city_value": "2502939"
+        },
+        {
+            "city_name": "Bou Tlelis",
+            "city_value": "2502239"
+        },
+        {
+            "city_name": "Boudjima",
+            "city_value": "2503237"
+        },
+        {
+            "city_name": "Boudouaou",
+            "city_value": "2503229"
+        },
+        {
+            "city_name": "Boufarik",
+            "city_value": "2503181"
+        },
+        {
+            "city_name": "Bougaa",
+            "city_value": "2503156"
+        },
+        {
+            "city_name": "Bougara",
+            "city_value": "2503147"
+        },
+        {
+            "city_name": "Bouinan",
+            "city_value": "2502962"
+        },
+        {
+            "city_name": "Boukadir",
+            "city_value": "2502924"
+        },
+        {
+            "city_name": "Boumahra Ahmed",
+            "city_value": "2502686"
+        },
+        {
+            "city_name": "Boumerdas",
+            "city_value": "2474141"
+        },
+        {
+            "city_name": "Brezina",
+            "city_value": "2502034"
+        },
+        {
+            "city_name": "Chabet el Ameur",
+            "city_value": "2501873"
+        },
+        {
+            "city_name": "Charef",
+            "city_value": "2501767"
+        },
+        {
+            "city_name": "Chebli",
+            "city_value": "2501680"
+        },
+        {
+            "city_name": "Chelghoum el Aid",
+            "city_value": "2501541"
+        },
+        {
+            "city_name": "Chemini",
+            "city_value": "2501508"
+        },
+        {
+            "city_name": "Cheraga",
+            "city_value": "2501465"
+        },
+        {
+            "city_name": "Cheria",
+            "city_value": "2501404"
+        },
+        {
+            "city_name": "Chetouane",
+            "city_value": "2501362"
+        },
+        {
+            "city_name": "Chiffa",
+            "city_value": "2501323"
+        },
+        {
+            "city_name": "Chorfa",
+            "city_value": "2501289"
+        },
+        {
+            "city_name": "Constantine",
+            "city_value": "2501152"
+        },
+        {
+            "city_name": "Dar Chioukh",
+            "city_value": "2500904"
+        },
+        {
+            "city_name": "Dar el Beida",
+            "city_value": "2500889"
+        },
+        {
+            "city_name": "Debila",
+            "city_value": "2500737"
+        },
+        {
+            "city_name": "Dellys",
+            "city_value": "2500583"
+        },
+        {
+            "city_name": "Didouche Mourad",
+            "city_value": "2500401"
+        },
+        {
+            "city_name": "Djamaa",
+            "city_value": "2500282"
+        },
+        {
+            "city_name": "Djidiouia",
+            "city_value": "2492920"
+        },
+        {
+            "city_name": "Douera",
+            "city_value": "2499193"
+        },
+        {
+            "city_name": "Draa Ben Khedda",
+            "city_value": "2499116"
+        },
+        {
+            "city_name": "Draa el Mizan",
+            "city_value": "2499104"
+        },
+        {
+            "city_name": "Drean",
+            "city_value": "2499055"
+        },
+        {
+            "city_name": "Ech Chettia",
+            "city_value": "2498954"
+        },
+        {
+            "city_name": "El Abadia",
+            "city_value": "2498782"
+        },
+        {
+            "city_name": "El Abiodh Sidi Cheikh",
+            "city_value": "2498775"
+        },
+        {
+            "city_name": "El Achir",
+            "city_value": "2498766"
+        },
+        {
+            "city_name": "El Affroun",
+            "city_value": "2498752"
+        },
+        {
+            "city_name": "El Amria",
+            "city_value": "2498704"
+        },
+        {
+            "city_name": "El Aouinet",
+            "city_value": "2498667"
+        },
+        {
+            "city_name": "El Attaf",
+            "city_value": "2498590"
+        },
+        {
+            "city_name": "El Eulma",
+            "city_value": "2498392"
+        },
+        {
+            "city_name": "El Hadjar",
+            "city_value": "2498183"
+        },
+        {
+            "city_name": "El Hadjira",
+            "city_value": "2498172"
+        },
+        {
+            "city_name": "el hed",
+            "city_value": "2476412"
+        },
+        {
+            "city_name": "El Idrissia",
+            "city_value": "2498000"
+        },
+        {
+            "city_name": "El Kala",
+            "city_value": "2497988"
+        },
+        {
+            "city_name": "El Khroub",
+            "city_value": "2497849"
+        },
+        {
+            "city_name": "El Kseur",
+            "city_value": "2497796"
+        },
+        {
+            "city_name": "El Malah",
+            "city_value": "2497714"
+        },
+        {
+            "city_name": "Es Senia",
+            "city_value": "2497060"
+        },
+        {
+            "city_name": "Feraoun",
+            "city_value": "2496573"
+        },
+        {
+            "city_name": "Freha",
+            "city_value": "2496241"
+        },
+        {
+            "city_name": "Frenda",
+            "city_value": "2496232"
+        },
+        {
+            "city_name": "Guelma",
+            "city_value": "2495662"
+        },
+        {
+            "city_name": "Hadjout",
+            "city_value": "2494962"
+        },
+        {
+            "city_name": "Hamma Bouziane",
+            "city_value": "2494610"
+        },
+        {
+            "city_name": "Hammam Bou Hadjar",
+            "city_value": "2494554"
+        },
+        {
+            "city_name": "Hammamet",
+            "city_value": "2494548"
+        },
+        {
+            "city_name": "Hassi Messaoud",
+            "city_value": "2494029"
+        },
+        {
+            "city_name": "Heliopolis",
+            "city_value": "2493956"
+        },
+        {
+            "city_name": "Hennaya",
+            "city_value": "2493918"
+        },
+        {
+            "city_name": "I-n-Salah",
+            "city_value": "2493222"
+        },
+        {
+            "city_name": "Ighram",
+            "city_value": "2493605"
+        },
+        {
+            "city_name": "Isser",
+            "city_value": "2492991"
+        },
+        {
+            "city_name": "Kerkera",
+            "city_value": "2492345"
+        },
+        {
+            "city_name": "Khemis el Khechna",
+            "city_value": "2491913"
+        },
+        {
+            "city_name": "Khemis Miliana",
+            "city_value": "2491911"
+        },
+        {
+            "city_name": "Kolea",
+            "city_value": "2491578"
+        },
+        {
+            "city_name": "Ksar Chellala",
+            "city_value": "2491335"
+        },
+        {
+            "city_name": "Ksar el Boukhari",
+            "city_value": "2491323"
+        },
+        {
+            "city_name": "L'Arba",
+            "city_value": "2491050"
+        },
+        {
+            "city_name": "L'Arbaa Nait Irathen",
+            "city_value": "2491042"
+        },
+        {
+            "city_name": "Laghouat",
+            "city_value": "2491191"
+        },
+        {
+            "city_name": "Lakhdaria",
+            "city_value": "2491134"
+        },
+        {
+            "city_name": "Makouda",
+            "city_value": "2490297"
+        },
+        {
+            "city_name": "Mansoura",
+            "city_value": "2490183"
+        },
+        {
+            "city_name": "Mansourah",
+            "city_value": "2490180"
+        },
+        {
+            "city_name": "Mazouna",
+            "city_value": "2489987"
+        },
+        {
+            "city_name": "Medea",
+            "city_value": "2488835"
+        },
+        {
+            "city_name": "Meftah",
+            "city_value": "2488722"
+        },
+        {
+            "city_name": "Megarine",
+            "city_value": "2488716"
+        },
+        {
+            "city_name": "Mehdia",
+            "city_value": "2488616"
+        },
+        {
+            "city_name": "Mekla",
+            "city_value": "2488500"
+        },
+        {
+            "city_name": "Melouza",
+            "city_value": "2488202"
+        },
+        {
+            "city_name": "Merouana",
+            "city_value": "2487882"
+        },
+        {
+            "city_name": "Mers el Kebir",
+            "city_value": "2487852"
+        },
+        {
+            "city_name": "Meskiana",
+            "city_value": "2487805"
+        },
+        {
+            "city_name": "Messaad",
+            "city_value": "2487772"
+        },
+        {
+            "city_name": "Metlili Chaamba",
+            "city_value": "2487620"
+        },
+        {
+            "city_name": "Mila",
+            "city_value": "2487452"
+        },
+        {
+            "city_name": "Mostaganem",
+            "city_value": "2487134"
+        },
+        {
+            "city_name": "Mouzaia",
+            "city_value": "2486825"
+        },
+        {
+            "city_name": "Naciria",
+            "city_value": "2486505"
+        },
+        {
+            "city_name": "Nedroma",
+            "city_value": "2486284"
+        },
+        {
+            "city_name": "Oran",
+            "city_value": "2485926"
+        },
+        {
+            "city_name": "Ouargla",
+            "city_value": "2485801"
+        },
+        {
+            "city_name": "Oued el Abtal",
+            "city_value": "2485636"
+        },
+        {
+            "city_name": "Oued el Alleug",
+            "city_value": "2485633"
+        },
+        {
+            "city_name": "Oued Fodda",
+            "city_value": "2485618"
+        },
+        {
+            "city_name": "Oued Rhiou",
+            "city_value": "2485582"
+        },
+        {
+            "city_name": "Oued Sly",
+            "city_value": "2485572"
+        },
+        {
+            "city_name": "Ouled Mimoun",
+            "city_value": "2484846"
+        },
+        {
+            "city_name": "Oum el Bouaghi",
+            "city_value": "2484620"
+        },
+        {
+            "city_name": "Ras el Aioun",
+            "city_value": "2483968"
+        },
+        {
+            "city_name": "Ras el Oued",
+            "city_value": "2483936"
+        },
+        {
+            "city_name": "Reggane",
+            "city_value": "2483761"
+        },
+        {
+            "city_name": "Reghaia",
+            "city_value": "2483757"
+        },
+        {
+            "city_name": "Reguiba",
+            "city_value": "2483746"
+        },
+        {
+            "city_name": "Remchi",
+            "city_value": "2483649"
+        },
+        {
+            "city_name": "Robbah",
+            "city_value": "2483000"
+        },
+        {
+            "city_name": "Rouached",
+            "city_value": "2482939"
+        },
+        {
+            "city_name": "Rouiba",
+            "city_value": "2482908"
+        },
+        {
+            "city_name": "Rouissat",
+            "city_value": "2482886"
+        },
+        {
+            "city_name": "Saida",
+            "city_value": "2482572"
+        },
+        {
+            "city_name": "Salah Bey",
+            "city_value": "2482447"
+        },
+        {
+            "city_name": "Saoula",
+            "city_value": "2482390"
+        },
+        {
+            "city_name": "Sebdou",
+            "city_value": "2482211"
+        },
+        {
+            "city_name": "Seddouk",
+            "city_value": "2482159"
+        },
+        {
+            "city_name": "Sedrata",
+            "city_value": "2482090"
+        },
+        {
+            "city_name": "Sfizef",
+            "city_value": "2481639"
+        },
+        {
+            "city_name": "Sidi Abdelli",
+            "city_value": "2481389"
+        },
+        {
+            "city_name": "Sidi Aissa",
+            "city_value": "2481246"
+        },
+        {
+            "city_name": "Sidi Akkacha",
+            "city_value": "2481207"
+        },
+        {
+            "city_name": "Sidi Amrane",
+            "city_value": "2481058"
+        },
+        {
+            "city_name": "Sidi Bel Abbes",
+            "city_value": "2481007"
+        },
+        {
+            "city_name": "Sidi ech Chahmi",
+            "city_value": "2480618"
+        },
+        {
+            "city_name": "Sidi Khaled",
+            "city_value": "2480368"
+        },
+        {
+            "city_name": "Sidi Merouane",
+            "city_value": "2480198"
+        },
+        {
+            "city_name": "Sidi Moussa",
+            "city_value": "2479966"
+        },
+        {
+            "city_name": "Sidi Okba",
+            "city_value": "2479916"
+        },
+        {
+            "city_name": "Sig",
+            "city_value": "2479609"
+        },
+        {
+            "city_name": "Skikda",
+            "city_value": "2479536"
+        },
+        {
+            "city_name": "Sougueur",
+            "city_value": "2479247"
+        },
+        {
+            "city_name": "Souma",
+            "city_value": "2479183"
+        },
+        {
+            "city_name": "Sour el Ghozlane",
+            "city_value": "2479161"
+        },
+        {
+            "city_name": "Tadmait",
+            "city_value": "2478831"
+        },
+        {
+            "city_name": "Tamalous",
+            "city_value": "2478226"
+        },
+        {
+            "city_name": "Tamanrasset",
+            "city_value": "2478216"
+        },
+        {
+            "city_name": "Tazoult-Lambese",
+            "city_value": "2477528"
+        },
+        {
+            "city_name": "Tebesbest",
+            "city_value": "2477462"
+        },
+        {
+            "city_name": "Telerghma",
+            "city_value": "2477255"
+        },
+        {
+            "city_name": "Thenia",
+            "city_value": "2476917"
+        },
+        {
+            "city_name": "Theniet el Had",
+            "city_value": "2476915"
+        },
+        {
+            "city_name": "Timimoun",
+            "city_value": "2476403"
+        },
+        {
+            "city_name": "Timizart",
+            "city_value": "2476396"
+        },
+        {
+            "city_name": "Tirmitine",
+            "city_value": "2475921"
+        },
+        {
+            "city_name": "Tizi Gheniff",
+            "city_value": "2475764"
+        },
+        {
+            "city_name": "Tizi Rached",
+            "city_value": "2475740"
+        },
+        {
+            "city_name": "Tizi-n-Tleta",
+            "city_value": "2475752"
+        },
+        {
+            "city_name": "Tlemcen",
+            "city_value": "2475687"
+        },
+        {
+            "city_name": "Tolga",
+            "city_value": "2475612"
+        },
+        {
+            "city_name": "Touggourt",
+            "city_value": "2475475"
+        },
+        {
+            "city_name": "Zemoura",
+            "city_value": "2474638"
+        },
+        {
+            "city_name": "Zeralda",
+            "city_value": "2474583"
+        },
+        {
+            "city_name": "Zeribet el Oued",
+            "city_value": "2474506"
+        },
+        {
+            "city_name": "`Ain el Hadjel",
+            "city_value": "2508157"
+        }
+    ]
+}
